@@ -1,0 +1,14 @@
+итого 4,0K
+drwxr-xr-x 1 mechanicus mechanicus  66 янв 10 20:44 .
+drwxr-xr-x 1 mechanicus mechanicus  22 янв 10 20:42 ..
+-rw-r--r-- 1 mechanicus mechanicus   0 янв 10 20:44 file-1.txt
+drwxr-xr-x 1 mechanicus mechanicus 166 янв 10 20:44 .git
+-rw-r--r-- 1 mechanicus mechanicus   0 янв 10 20:43 .gitignore
+-rw-r--r-- 1 mechanicus mechanicus  13 янв 10 20:42 README.md
+итого 8,0K
+drwxr-xr-x 1 mechanicus mechanicus  66 янв 10 20:44 .
+drwxr-xr-x 1 mechanicus mechanicus  22 янв 10 20:42 ..
+-rw-r--r-- 1 mechanicus mechanicus 388 янв 10 20:44 file-1.txt
+drwxr-xr-x 1 mechanicus mechanicus 184 янв 10 20:46 .git
+-rw-r--r-- 1 mechanicus mechanicus   0 янв 10 20:43 .gitignore
+-rw-r--r-- 1 mechanicus mechanicus  13 янв 10 20:42 README.md
